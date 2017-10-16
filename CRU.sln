@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRU", "CRU\CRU.csproj", "{F89BCCE0-CCCD-41F8-9BFC-7B8A2DCDDA78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{72ACD365-7AAC-4DD3-BA74-08352B73761C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF", "WCF\WCF.csproj", "{E4EB2AC5-BDDE-4E99-974B-71A3BE65C6AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F89BCCE0-CCCD-41F8-9BFC-7B8A2DCDDA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89BCCE0-CCCD-41F8-9BFC-7B8A2DCDDA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89BCCE0-CCCD-41F8-9BFC-7B8A2DCDDA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89BCCE0-CCCD-41F8-9BFC-7B8A2DCDDA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72ACD365-7AAC-4DD3-BA74-08352B73761C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72ACD365-7AAC-4DD3-BA74-08352B73761C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72ACD365-7AAC-4DD3-BA74-08352B73761C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72ACD365-7AAC-4DD3-BA74-08352B73761C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4EB2AC5-BDDE-4E99-974B-71A3BE65C6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4EB2AC5-BDDE-4E99-974B-71A3BE65C6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4EB2AC5-BDDE-4E99-974B-71A3BE65C6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4EB2AC5-BDDE-4E99-974B-71A3BE65C6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {986E87FB-B406-4289-B65C-9CCF8B0851E1}
+	EndGlobalSection
+EndGlobal
